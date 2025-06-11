@@ -22,13 +22,15 @@ Omnifood is a responsive food delivery landing page built with **React.js**, sho
 ---
 
 ## 🖼️ Screenshots
+![omi1](https://github.com/user-attachments/assets/99e84e0f-2977-44b4-8220-3edab62225a0)
+![omi2](https://github.com/user-attachments/assets/9a755e40-de8c-454a-88a7-deddc4a8f329)
+![omi3](https://github.com/user-attachments/assets/adc77ab6-7722-4981-8de5-63fd5e241b58)
+![omi4](https://github.com/user-attachments/assets/b049de56-10a6-4313-8a84-de6b01db3fee)
 
 
 
-(https://github.com/user-attachments/assets/f25f0263-72c4-479e-b27d-7744bf11e4a4)
-(https://github.com/user-attachments/assets/a7163203-ff78-4cda-acb2-6d97e6581822)
-(https://github.com/user-attachments/assets/e12fb9dc-b45b-47d5-8be8-07fdead9cead)
-(https://github.com/user-attachments/assets/4e19754a-6504-4258-afc5-c161cf62b5d2)
+
+
 
 
 ---
